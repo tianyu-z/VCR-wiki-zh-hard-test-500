@@ -1,0 +1,1 @@
+['所见即所得的', 'SeaMonkey是一个自由的', '是以MozillaSuite为基础']
